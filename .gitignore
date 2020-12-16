@@ -1,8 +1,0 @@
-.idea
-
-
-/api/node_modules
-/api/package-lock.json
-
-/rtmpserver/node_modules
-/rtmpserver/package-lock.json
